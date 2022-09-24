@@ -3,6 +3,8 @@ Shared Preference's Data will be expired after every 24 hours
 
 # Code
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 #### 1st Activity 
 ```
  private AdView mAdView;
@@ -72,5 +74,5 @@ int bannerAdsClickCounter = 0;
 ```
 
 # App Highlight
+![SP and Time Code](https://user-images.githubusercontent.com/74413402/192094238-38f0a736-b039-4e06-b104-c14b16606310.png)
 
-<img src="app_images/SP and Time Code.png" width="1000" /><br>
